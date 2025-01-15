@@ -4,7 +4,7 @@
 
 #### **Proje Açıklaması**
 Bu proje, Ahmet Suna ve Hilal Nur Tınas tarafından birlikte geliştirilen bir **Özel Web Sitesi** projesidir. Hedefimiz, müşterinin isteklerini göz önüne alarak etkili ve kullanıcı dostu bir websitesi oluşturmak. Kullanıcı dostu, duyarlı (responsive) ve performans odaklı bir yapı sunmaktadır.
-
+Proje linki: https://www.beratmetalhurdacilik.com.tr/
 ---
 
 #### **Özellikler**
